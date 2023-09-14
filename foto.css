@@ -1,0 +1,11 @@
+/* estilos.css */
+#mi-imagen {
+    /* Estilos para la imagen con el ID "mi-imagen" */
+    width: 175px; /* Ancho de 250px */
+    height: 175px; /* Altura de 250px */
+    border: 2px solid #ee1313; /* Borde negro de 2px */
+    float: right; /* Alineación a la izquierda */
+    margin-right: 20px; /* Margen derecho de 20px para separar el contenido */
+}
+
+
